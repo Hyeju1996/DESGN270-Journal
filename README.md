@@ -19,4 +19,8 @@ This is what Tony shows us example to draw amzone website.
 
 - Also, we have to push in to the GitHub with photo Figma. 
 
+## prove of work:
+
+update from Feb,10,2022 for adding prove of work.
+
 ![](https://i.imgur.com/dc61Lk3.jpg)
